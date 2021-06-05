@@ -1,0 +1,178 @@
+[
+  {
+    "id": "0",
+    "semesterNumber": "Semester 1",
+    "background_layer": "sem1",
+    "overallGPA": "3.24",
+    "courses": [
+      {
+        "subjects": "Fundamentals of ICT",
+        "gpa": "3.50"
+      },
+      {
+        "subjects": "Computer Programming",
+        "gpa": "3.50"
+      },
+      {
+        "subjects": "Islamic Studies",
+        "gpa": "3.00"
+      },
+      {
+        "subjects": "Communication Skills",
+        "gpa": "4.00"
+      },
+      {
+        "subjects": "Discrete Mathematics",
+        "gpa": "2.50"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "semesterNumber": "Semester 2",
+    "background_layer": "sem2",
+    "overallGPA": "3.45",
+    "courses": [
+      {
+        "subjects": "OOP",
+        "gpa": "3.00"
+      },
+      {
+        "subjects": "Digital Logic Design",
+        "gpa": "3.50"
+      },
+      {
+        "subjects": "Pakistan Studies",
+        "gpa": "4.00"
+      },
+      {
+        "subjects": "Calculus II",
+        "gpa": "3.00"
+      },
+      {
+        "subjects": "Intro to Management",
+        "gpa": "3.50"
+      },
+      {
+        "subjects": "Applied Physics",
+        "gpa": "3.50"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "semesterNumber": "Semester 3",
+    "background_layer": "sem3",
+    "overallGPA": "2.97",
+    "courses": [
+      {
+        "subjects": "COAL",
+        "gpa": "3.50"
+      },
+      {
+        "subjects": "DSA",
+        "gpa": "3.00"
+      },
+      {
+        "subjects": "Linear Algebra",
+        "gpa": "2.50"
+      },
+      {
+        "subjects": "TBW",
+        "gpa": "2.50"
+      },
+      {
+        "subjects": "Database Systems",
+        "gpa": "3.00"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "semesterNumber": "Semester 4",
+    "background_layer": "sem4",
+    "overallGPA": "2.82",
+    "courses": [
+      {
+        "subjects": "Web Engineering",
+        "gpa": "2.00"
+      },
+      {
+        "subjects": "CAO",
+        "gpa": "2.50"
+      },
+      {
+        "subjects": "DAA",
+        "gpa": "3.50"
+      },
+      {
+        "subjects": "Probability & Statistics",
+        "gpa": "3.00"
+      },
+      {
+        "subjects": "HCI",
+        "gpa": "4.00"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "semesterNumber": "Semester 5",
+    "background_layer": "sem5",
+    "overallGPA": "3.5",
+    "courses": [
+      {
+        "subjects": "Operating Systems",
+        "gpa": "4.00"
+      },
+      {
+        "subjects": "Software Engineering",
+        "gpa": "3.50"
+      },
+      {
+        "subjects": "Psychology",
+        "gpa": "3.50"
+      },
+      {
+        "subjects": "Computer Networks",
+        "gpa": "3.50"
+      },
+      {
+        "subjects": "Advanced Programming",
+        "gpa": "3.00"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "semesterNumber": "Semester 6",
+    "background_layer": "sem6",
+    "overallGPA": "3.8",
+    "courses": [
+      {
+        "subjects": "Professional Ethics",
+        "gpa": "4.00"
+      },
+      {
+        "subjects": "Automata & Formal Lang",
+        "gpa": "4.00"
+      },
+      {
+        "subjects": "Principles Of Accounting",
+        "gpa": "4.00"
+      },
+      {
+        "subjects": "Digital Image Processing",
+        "gpa": "4.00"
+      },
+      {
+        "subjects": "Numerical Analysis",
+        "gpa": "3.50"
+      },
+      {
+        "subjects": "Artificial Intelligence",
+        "gpa": "3.50"
+      }
+    ]
+  }
+]
